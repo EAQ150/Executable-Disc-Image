@@ -36,8 +36,8 @@ EDI is short for Executable Disc Image, and is meant to be the executable versio
 <hr>
 <br>
 <h2>Roadmap</h2>
-<li>v1.0.4: November 5th 2026</li>
-<li>v1.0.5: December 1st 2026</li>
+<li>v1.0.4: November 12th 2026</li>
+<li>v1.0.5: December 11th 2026</li>
 To be Continued...<br>
 
 <h2>Custom Builds</h2>
